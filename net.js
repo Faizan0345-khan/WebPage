@@ -66,7 +66,7 @@
             description: "Ecommerce frontend with filtering, localstorage cart system.",
             fullDescription: "A complete e-commerce frontend with product filtering and sorting, cart system using LocalStorage, wishlist functionality.",
             github: "https://github.com/Faizan0345-khan/shopiflyz",
-            live: "#", isWeb: true
+            live: "https://faizan0345-khan.github.io/Shopiflyz-faizan/", isWeb: true
         }
     };
 
